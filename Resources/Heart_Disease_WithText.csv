@@ -1,0 +1,271 @@
+Age,Sex,Sex (String),Chest pain type,Chest pain type (String),BP,Cholesterol,FBS over 120,FBS over 120 (Boolean),EKG results,EKG results (String),Max HR,Exercise angina,Exercise angina (Boolean),ST depression,Slope of ST,Slope of ST (String),Number of vessels fluro,Thallium,Thallium (String),Heart Disease,Heart Disease (Numerical)
+70,1,Male,4,Asymptomatic,130,322,0,False,2,LVH Indication,109,0,False,2.4,2,Flat,3,3,Normal,Presence,1
+67,0,Female,3,Non-Anginal Pain,115,564,0,False,2,LVH Indication,160,0,False,1.6,2,Flat,0,7,Reversable Defect,Absence,0
+57,1,Male,2,Atypical Angina,124,261,0,False,0,Normal,141,0,False,0.3,1,Unsloping,0,7,Reversable Defect,Presence,1
+64,1,Male,4,Asymptomatic,128,263,0,False,0,Normal,105,1,True,0.2,2,Flat,1,7,Reversable Defect,Absence,0
+74,0,Female,2,Atypical Angina,120,269,0,False,2,LVH Indication,121,1,True,0.2,1,Unsloping,1,3,Normal,Absence,0
+65,1,Male,4,Asymptomatic,120,177,0,False,0,Normal,140,0,False,0.4,1,Unsloping,0,7,Reversable Defect,Absence,0
+56,1,Male,3,Non-Anginal Pain,130,256,1,True,2,LVH Indication,142,1,True,0.6,2,Flat,1,6,Fixed Defect,Presence,1
+59,1,Male,4,Asymptomatic,110,239,0,False,2,LVH Indication,142,1,True,1.2,2,Flat,1,7,Reversable Defect,Presence,1
+60,1,Male,4,Asymptomatic,140,293,0,False,2,LVH Indication,170,0,False,1.2,2,Flat,2,7,Reversable Defect,Presence,1
+63,0,Female,4,Asymptomatic,150,407,0,False,2,LVH Indication,154,0,False,4.0,2,Flat,3,7,Reversable Defect,Presence,1
+59,1,Male,4,Asymptomatic,135,234,0,False,0,Normal,161,0,False,0.5,2,Flat,0,7,Reversable Defect,Absence,0
+53,1,Male,4,Asymptomatic,142,226,0,False,2,LVH Indication,111,1,True,0.0,1,Unsloping,0,7,Reversable Defect,Absence,0
+44,1,Male,3,Non-Anginal Pain,140,235,0,False,2,LVH Indication,180,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+61,1,Male,1,Typical Angina,134,234,0,False,0,Normal,145,0,False,2.6,2,Flat,2,3,Normal,Presence,1
+57,0,Female,4,Asymptomatic,128,303,0,False,2,LVH Indication,159,0,False,0.0,1,Unsloping,1,3,Normal,Absence,0
+71,0,Female,4,Asymptomatic,112,149,0,False,0,Normal,125,0,False,1.6,2,Flat,0,3,Normal,Absence,0
+46,1,Male,4,Asymptomatic,140,311,0,False,0,Normal,120,1,True,1.8,2,Flat,2,7,Reversable Defect,Presence,1
+53,1,Male,4,Asymptomatic,140,203,1,True,2,LVH Indication,155,1,True,3.1,3,Downsloping,0,7,Reversable Defect,Presence,1
+64,1,Male,1,Typical Angina,110,211,0,False,2,LVH Indication,144,1,True,1.8,2,Flat,0,3,Normal,Absence,0
+40,1,Male,1,Typical Angina,140,199,0,False,0,Normal,178,1,True,1.4,1,Unsloping,0,7,Reversable Defect,Absence,0
+67,1,Male,4,Asymptomatic,120,229,0,False,2,LVH Indication,129,1,True,2.6,2,Flat,2,7,Reversable Defect,Presence,1
+48,1,Male,2,Atypical Angina,130,245,0,False,2,LVH Indication,180,0,False,0.2,2,Flat,0,3,Normal,Absence,0
+43,1,Male,4,Asymptomatic,115,303,0,False,0,Normal,181,0,False,1.2,2,Flat,0,3,Normal,Absence,0
+47,1,Male,4,Asymptomatic,112,204,0,False,0,Normal,143,0,False,0.1,1,Unsloping,0,3,Normal,Absence,0
+54,0,Female,2,Atypical Angina,132,288,1,True,2,LVH Indication,159,1,True,0.0,1,Unsloping,1,3,Normal,Absence,0
+48,0,Female,3,Non-Anginal Pain,130,275,0,False,0,Normal,139,0,False,0.2,1,Unsloping,0,3,Normal,Absence,0
+46,0,Female,4,Asymptomatic,138,243,0,False,2,LVH Indication,152,1,True,0.0,2,Flat,0,3,Normal,Absence,0
+51,0,Female,3,Non-Anginal Pain,120,295,0,False,2,LVH Indication,157,0,False,0.6,1,Unsloping,0,3,Normal,Absence,0
+58,1,Male,3,Non-Anginal Pain,112,230,0,False,2,LVH Indication,165,0,False,2.5,2,Flat,1,7,Reversable Defect,Presence,1
+71,0,Female,3,Non-Anginal Pain,110,265,1,True,2,LVH Indication,130,0,False,0.0,1,Unsloping,1,3,Normal,Absence,0
+57,1,Male,3,Non-Anginal Pain,128,229,0,False,2,LVH Indication,150,0,False,0.4,2,Flat,1,7,Reversable Defect,Presence,1
+66,1,Male,4,Asymptomatic,160,228,0,False,2,LVH Indication,138,0,False,2.3,1,Unsloping,0,6,Fixed Defect,Absence,0
+37,0,Female,3,Non-Anginal Pain,120,215,0,False,0,Normal,170,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+59,1,Male,4,Asymptomatic,170,326,0,False,2,LVH Indication,140,1,True,3.4,3,Downsloping,0,7,Reversable Defect,Presence,1
+50,1,Male,4,Asymptomatic,144,200,0,False,2,LVH Indication,126,1,True,0.9,2,Flat,0,7,Reversable Defect,Presence,1
+48,1,Male,4,Asymptomatic,130,256,1,True,2,LVH Indication,150,1,True,0.0,1,Unsloping,2,7,Reversable Defect,Presence,1
+61,1,Male,4,Asymptomatic,140,207,0,False,2,LVH Indication,138,1,True,1.9,1,Unsloping,1,7,Reversable Defect,Presence,1
+59,1,Male,1,Typical Angina,160,273,0,False,2,LVH Indication,125,0,False,0.0,1,Unsloping,0,3,Normal,Presence,1
+42,1,Male,3,Non-Anginal Pain,130,180,0,False,0,Normal,150,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+48,1,Male,4,Asymptomatic,122,222,0,False,2,LVH Indication,186,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+40,1,Male,4,Asymptomatic,152,223,0,False,0,Normal,181,0,False,0.0,1,Unsloping,0,7,Reversable Defect,Presence,1
+62,0,Female,4,Asymptomatic,124,209,0,False,0,Normal,163,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+44,1,Male,3,Non-Anginal Pain,130,233,0,False,0,Normal,179,1,True,0.4,1,Unsloping,0,3,Normal,Absence,0
+46,1,Male,2,Atypical Angina,101,197,1,True,0,Normal,156,0,False,0.0,1,Unsloping,0,7,Reversable Defect,Absence,0
+59,1,Male,3,Non-Anginal Pain,126,218,1,True,0,Normal,134,0,False,2.2,2,Flat,1,6,Fixed Defect,Presence,1
+58,1,Male,3,Non-Anginal Pain,140,211,1,True,2,LVH Indication,165,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+49,1,Male,3,Non-Anginal Pain,118,149,0,False,2,LVH Indication,126,0,False,0.8,1,Unsloping,3,3,Normal,Presence,1
+44,1,Male,4,Asymptomatic,110,197,0,False,2,LVH Indication,177,0,False,0.0,1,Unsloping,1,3,Normal,Presence,1
+66,1,Male,2,Atypical Angina,160,246,0,False,0,Normal,120,1,True,0.0,2,Flat,3,6,Fixed Defect,Presence,1
+65,0,Female,4,Asymptomatic,150,225,0,False,2,LVH Indication,114,0,False,1.0,2,Flat,3,7,Reversable Defect,Presence,1
+42,1,Male,4,Asymptomatic,136,315,0,False,0,Normal,125,1,True,1.8,2,Flat,0,6,Fixed Defect,Presence,1
+52,1,Male,2,Atypical Angina,128,205,1,True,0,Normal,184,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+65,0,Female,3,Non-Anginal Pain,140,417,1,True,2,LVH Indication,157,0,False,0.8,1,Unsloping,1,3,Normal,Absence,0
+63,0,Female,2,Atypical Angina,140,195,0,False,0,Normal,179,0,False,0.0,1,Unsloping,2,3,Normal,Absence,0
+45,0,Female,2,Atypical Angina,130,234,0,False,2,LVH Indication,175,0,False,0.6,2,Flat,0,3,Normal,Absence,0
+41,0,Female,2,Atypical Angina,105,198,0,False,0,Normal,168,0,False,0.0,1,Unsloping,1,3,Normal,Absence,0
+61,1,Male,4,Asymptomatic,138,166,0,False,2,LVH Indication,125,1,True,3.6,2,Flat,1,3,Normal,Presence,1
+60,0,Female,3,Non-Anginal Pain,120,178,1,True,0,Normal,96,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+59,0,Female,4,Asymptomatic,174,249,0,False,0,Normal,143,1,True,0.0,2,Flat,0,3,Normal,Presence,1
+62,1,Male,2,Atypical Angina,120,281,0,False,2,LVH Indication,103,0,False,1.4,2,Flat,1,7,Reversable Defect,Presence,1
+57,1,Male,3,Non-Anginal Pain,150,126,1,True,0,Normal,173,0,False,0.2,1,Unsloping,1,7,Reversable Defect,Absence,0
+51,0,Female,4,Asymptomatic,130,305,0,False,0,Normal,142,1,True,1.2,2,Flat,0,7,Reversable Defect,Presence,1
+44,1,Male,3,Non-Anginal Pain,120,226,0,False,0,Normal,169,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+60,0,Female,1,Typical Angina,150,240,0,False,0,Normal,171,0,False,0.9,1,Unsloping,0,3,Normal,Absence,0
+63,1,Male,1,Typical Angina,145,233,1,True,2,LVH Indication,150,0,False,2.3,3,Downsloping,0,6,Fixed Defect,Absence,0
+57,1,Male,4,Asymptomatic,150,276,0,False,2,LVH Indication,112,1,True,0.6,2,Flat,1,6,Fixed Defect,Presence,1
+51,1,Male,4,Asymptomatic,140,261,0,False,2,LVH Indication,186,1,True,0.0,1,Unsloping,0,3,Normal,Absence,0
+58,0,Female,2,Atypical Angina,136,319,1,True,2,LVH Indication,152,0,False,0.0,1,Unsloping,2,3,Normal,Presence,1
+44,0,Female,3,Non-Anginal Pain,118,242,0,False,0,Normal,149,0,False,0.3,2,Flat,1,3,Normal,Absence,0
+47,1,Male,3,Non-Anginal Pain,108,243,0,False,0,Normal,152,0,False,0.0,1,Unsloping,0,3,Normal,Presence,1
+61,1,Male,4,Asymptomatic,120,260,0,False,0,Normal,140,1,True,3.6,2,Flat,1,7,Reversable Defect,Presence,1
+57,0,Female,4,Asymptomatic,120,354,0,False,0,Normal,163,1,True,0.6,1,Unsloping,0,3,Normal,Absence,0
+70,1,Male,2,Atypical Angina,156,245,0,False,2,LVH Indication,143,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+76,0,Female,3,Non-Anginal Pain,140,197,0,False,1,ST-T Abnormality,116,0,False,1.1,2,Flat,0,3,Normal,Absence,0
+67,0,Female,4,Asymptomatic,106,223,0,False,0,Normal,142,0,False,0.3,1,Unsloping,2,3,Normal,Absence,0
+45,1,Male,4,Asymptomatic,142,309,0,False,2,LVH Indication,147,1,True,0.0,2,Flat,3,7,Reversable Defect,Presence,1
+45,1,Male,4,Asymptomatic,104,208,0,False,2,LVH Indication,148,1,True,3.0,2,Flat,0,3,Normal,Absence,0
+39,0,Female,3,Non-Anginal Pain,94,199,0,False,0,Normal,179,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+42,0,Female,3,Non-Anginal Pain,120,209,0,False,0,Normal,173,0,False,0.0,2,Flat,0,3,Normal,Absence,0
+56,1,Male,2,Atypical Angina,120,236,0,False,0,Normal,178,0,False,0.8,1,Unsloping,0,3,Normal,Absence,0
+58,1,Male,4,Asymptomatic,146,218,0,False,0,Normal,105,0,False,2.0,2,Flat,1,7,Reversable Defect,Presence,1
+35,1,Male,4,Asymptomatic,120,198,0,False,0,Normal,130,1,True,1.6,2,Flat,0,7,Reversable Defect,Presence,1
+58,1,Male,4,Asymptomatic,150,270,0,False,2,LVH Indication,111,1,True,0.8,1,Unsloping,0,7,Reversable Defect,Presence,1
+41,1,Male,3,Non-Anginal Pain,130,214,0,False,2,LVH Indication,168,0,False,2.0,2,Flat,0,3,Normal,Absence,0
+57,1,Male,4,Asymptomatic,110,201,0,False,0,Normal,126,1,True,1.5,2,Flat,0,6,Fixed Defect,Absence,0
+42,1,Male,1,Typical Angina,148,244,0,False,2,LVH Indication,178,0,False,0.8,1,Unsloping,2,3,Normal,Absence,0
+62,1,Male,2,Atypical Angina,128,208,1,True,2,LVH Indication,140,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+59,1,Male,1,Typical Angina,178,270,0,False,2,LVH Indication,145,0,False,4.2,3,Downsloping,0,7,Reversable Defect,Absence,0
+41,0,Female,2,Atypical Angina,126,306,0,False,0,Normal,163,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+50,1,Male,4,Asymptomatic,150,243,0,False,2,LVH Indication,128,0,False,2.6,2,Flat,0,7,Reversable Defect,Presence,1
+59,1,Male,2,Atypical Angina,140,221,0,False,0,Normal,164,1,True,0.0,1,Unsloping,0,3,Normal,Absence,0
+61,0,Female,4,Asymptomatic,130,330,0,False,2,LVH Indication,169,0,False,0.0,1,Unsloping,0,3,Normal,Presence,1
+54,1,Male,4,Asymptomatic,124,266,0,False,2,LVH Indication,109,1,True,2.2,2,Flat,1,7,Reversable Defect,Presence,1
+54,1,Male,4,Asymptomatic,110,206,0,False,2,LVH Indication,108,1,True,0.0,2,Flat,1,3,Normal,Presence,1
+52,1,Male,4,Asymptomatic,125,212,0,False,0,Normal,168,0,False,1.0,1,Unsloping,2,7,Reversable Defect,Presence,1
+47,1,Male,4,Asymptomatic,110,275,0,False,2,LVH Indication,118,1,True,1.0,2,Flat,1,3,Normal,Presence,1
+66,1,Male,4,Asymptomatic,120,302,0,False,2,LVH Indication,151,0,False,0.4,2,Flat,0,3,Normal,Absence,0
+58,1,Male,4,Asymptomatic,100,234,0,False,0,Normal,156,0,False,0.1,1,Unsloping,1,7,Reversable Defect,Presence,1
+64,0,Female,3,Non-Anginal Pain,140,313,0,False,0,Normal,133,0,False,0.2,1,Unsloping,0,7,Reversable Defect,Absence,0
+50,0,Female,2,Atypical Angina,120,244,0,False,0,Normal,162,0,False,1.1,1,Unsloping,0,3,Normal,Absence,0
+44,0,Female,3,Non-Anginal Pain,108,141,0,False,0,Normal,175,0,False,0.6,2,Flat,0,3,Normal,Absence,0
+67,1,Male,4,Asymptomatic,120,237,0,False,0,Normal,71,0,False,1.0,2,Flat,0,3,Normal,Presence,1
+49,0,Female,4,Asymptomatic,130,269,0,False,0,Normal,163,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+57,1,Male,4,Asymptomatic,165,289,1,True,2,LVH Indication,124,0,False,1.0,2,Flat,3,7,Reversable Defect,Presence,1
+63,1,Male,4,Asymptomatic,130,254,0,False,2,LVH Indication,147,0,False,1.4,2,Flat,1,7,Reversable Defect,Presence,1
+48,1,Male,4,Asymptomatic,124,274,0,False,2,LVH Indication,166,0,False,0.5,2,Flat,0,7,Reversable Defect,Presence,1
+51,1,Male,3,Non-Anginal Pain,100,222,0,False,0,Normal,143,1,True,1.2,2,Flat,0,3,Normal,Absence,0
+60,0,Female,4,Asymptomatic,150,258,0,False,2,LVH Indication,157,0,False,2.6,2,Flat,2,7,Reversable Defect,Presence,1
+59,1,Male,4,Asymptomatic,140,177,0,False,0,Normal,162,1,True,0.0,1,Unsloping,1,7,Reversable Defect,Presence,1
+45,0,Female,2,Atypical Angina,112,160,0,False,0,Normal,138,0,False,0.0,2,Flat,0,3,Normal,Absence,0
+55,0,Female,4,Asymptomatic,180,327,0,False,1,ST-T Abnormality,117,1,True,3.4,2,Flat,0,3,Normal,Presence,1
+41,1,Male,2,Atypical Angina,110,235,0,False,0,Normal,153,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+60,0,Female,4,Asymptomatic,158,305,0,False,2,LVH Indication,161,0,False,0.0,1,Unsloping,0,3,Normal,Presence,1
+54,0,Female,3,Non-Anginal Pain,135,304,1,True,0,Normal,170,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+42,1,Male,2,Atypical Angina,120,295,0,False,0,Normal,162,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+49,0,Female,2,Atypical Angina,134,271,0,False,0,Normal,162,0,False,0.0,2,Flat,0,3,Normal,Absence,0
+46,1,Male,4,Asymptomatic,120,249,0,False,2,LVH Indication,144,0,False,0.8,1,Unsloping,0,7,Reversable Defect,Presence,1
+56,0,Female,4,Asymptomatic,200,288,1,True,2,LVH Indication,133,1,True,4.0,3,Downsloping,2,7,Reversable Defect,Presence,1
+66,0,Female,1,Typical Angina,150,226,0,False,0,Normal,114,0,False,2.6,3,Downsloping,0,3,Normal,Absence,0
+56,1,Male,4,Asymptomatic,130,283,1,True,2,LVH Indication,103,1,True,1.6,3,Downsloping,0,7,Reversable Defect,Presence,1
+49,1,Male,3,Non-Anginal Pain,120,188,0,False,0,Normal,139,0,False,2.0,2,Flat,3,7,Reversable Defect,Presence,1
+54,1,Male,4,Asymptomatic,122,286,0,False,2,LVH Indication,116,1,True,3.2,2,Flat,2,3,Normal,Presence,1
+57,1,Male,4,Asymptomatic,152,274,0,False,0,Normal,88,1,True,1.2,2,Flat,1,7,Reversable Defect,Presence,1
+65,0,Female,3,Non-Anginal Pain,160,360,0,False,2,LVH Indication,151,0,False,0.8,1,Unsloping,0,3,Normal,Absence,0
+54,1,Male,3,Non-Anginal Pain,125,273,0,False,2,LVH Indication,152,0,False,0.5,3,Downsloping,1,3,Normal,Absence,0
+54,0,Female,3,Non-Anginal Pain,160,201,0,False,0,Normal,163,0,False,0.0,1,Unsloping,1,3,Normal,Absence,0
+62,1,Male,4,Asymptomatic,120,267,0,False,0,Normal,99,1,True,1.8,2,Flat,2,7,Reversable Defect,Presence,1
+52,0,Female,3,Non-Anginal Pain,136,196,0,False,2,LVH Indication,169,0,False,0.1,2,Flat,0,3,Normal,Absence,0
+52,1,Male,2,Atypical Angina,134,201,0,False,0,Normal,158,0,False,0.8,1,Unsloping,1,3,Normal,Absence,0
+60,1,Male,4,Asymptomatic,117,230,1,True,0,Normal,160,1,True,1.4,1,Unsloping,2,7,Reversable Defect,Presence,1
+63,0,Female,4,Asymptomatic,108,269,0,False,0,Normal,169,1,True,1.8,2,Flat,2,3,Normal,Presence,1
+66,1,Male,4,Asymptomatic,112,212,0,False,2,LVH Indication,132,1,True,0.1,1,Unsloping,1,3,Normal,Presence,1
+42,1,Male,4,Asymptomatic,140,226,0,False,0,Normal,178,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+64,1,Male,4,Asymptomatic,120,246,0,False,2,LVH Indication,96,1,True,2.2,3,Downsloping,1,3,Normal,Presence,1
+54,1,Male,3,Non-Anginal Pain,150,232,0,False,2,LVH Indication,165,0,False,1.6,1,Unsloping,0,7,Reversable Defect,Absence,0
+46,0,Female,3,Non-Anginal Pain,142,177,0,False,2,LVH Indication,160,1,True,1.4,3,Downsloping,0,3,Normal,Absence,0
+67,0,Female,3,Non-Anginal Pain,152,277,0,False,0,Normal,172,0,False,0.0,1,Unsloping,1,3,Normal,Absence,0
+56,1,Male,4,Asymptomatic,125,249,1,True,2,LVH Indication,144,1,True,1.2,2,Flat,1,3,Normal,Presence,1
+34,0,Female,2,Atypical Angina,118,210,0,False,0,Normal,192,0,False,0.7,1,Unsloping,0,3,Normal,Absence,0
+57,1,Male,4,Asymptomatic,132,207,0,False,0,Normal,168,1,True,0.0,1,Unsloping,0,7,Reversable Defect,Absence,0
+64,1,Male,4,Asymptomatic,145,212,0,False,2,LVH Indication,132,0,False,2.0,2,Flat,2,6,Fixed Defect,Presence,1
+59,1,Male,4,Asymptomatic,138,271,0,False,2,LVH Indication,182,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+50,1,Male,3,Non-Anginal Pain,140,233,0,False,0,Normal,163,0,False,0.6,2,Flat,1,7,Reversable Defect,Presence,1
+51,1,Male,1,Typical Angina,125,213,0,False,2,LVH Indication,125,1,True,1.4,1,Unsloping,1,3,Normal,Absence,0
+54,1,Male,2,Atypical Angina,192,283,0,False,2,LVH Indication,195,0,False,0.0,1,Unsloping,1,7,Reversable Defect,Presence,1
+53,1,Male,4,Asymptomatic,123,282,0,False,0,Normal,95,1,True,2.0,2,Flat,2,7,Reversable Defect,Presence,1
+52,1,Male,4,Asymptomatic,112,230,0,False,0,Normal,160,0,False,0.0,1,Unsloping,1,3,Normal,Presence,1
+40,1,Male,4,Asymptomatic,110,167,0,False,2,LVH Indication,114,1,True,2.0,2,Flat,0,7,Reversable Defect,Presence,1
+58,1,Male,3,Non-Anginal Pain,132,224,0,False,2,LVH Indication,173,0,False,3.2,1,Unsloping,2,7,Reversable Defect,Presence,1
+41,0,Female,3,Non-Anginal Pain,112,268,0,False,2,LVH Indication,172,1,True,0.0,1,Unsloping,0,3,Normal,Absence,0
+41,1,Male,3,Non-Anginal Pain,112,250,0,False,0,Normal,179,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+50,0,Female,3,Non-Anginal Pain,120,219,0,False,0,Normal,158,0,False,1.6,2,Flat,0,3,Normal,Absence,0
+54,0,Female,3,Non-Anginal Pain,108,267,0,False,2,LVH Indication,167,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+64,0,Female,4,Asymptomatic,130,303,0,False,0,Normal,122,0,False,2.0,2,Flat,2,3,Normal,Absence,0
+51,0,Female,3,Non-Anginal Pain,130,256,0,False,2,LVH Indication,149,0,False,0.5,1,Unsloping,0,3,Normal,Absence,0
+46,0,Female,2,Atypical Angina,105,204,0,False,0,Normal,172,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+55,1,Male,4,Asymptomatic,140,217,0,False,0,Normal,111,1,True,5.6,3,Downsloping,0,7,Reversable Defect,Presence,1
+45,1,Male,2,Atypical Angina,128,308,0,False,2,LVH Indication,170,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+56,1,Male,1,Typical Angina,120,193,0,False,2,LVH Indication,162,0,False,1.9,2,Flat,0,7,Reversable Defect,Absence,0
+66,0,Female,4,Asymptomatic,178,228,1,True,0,Normal,165,1,True,1.0,2,Flat,2,7,Reversable Defect,Presence,1
+38,1,Male,1,Typical Angina,120,231,0,False,0,Normal,182,1,True,3.8,2,Flat,0,7,Reversable Defect,Presence,1
+62,0,Female,4,Asymptomatic,150,244,0,False,0,Normal,154,1,True,1.4,2,Flat,0,3,Normal,Presence,1
+55,1,Male,2,Atypical Angina,130,262,0,False,0,Normal,155,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+58,1,Male,4,Asymptomatic,128,259,0,False,2,LVH Indication,130,1,True,3.0,2,Flat,2,7,Reversable Defect,Presence,1
+43,1,Male,4,Asymptomatic,110,211,0,False,0,Normal,161,0,False,0.0,1,Unsloping,0,7,Reversable Defect,Absence,0
+64,0,Female,4,Asymptomatic,180,325,0,False,0,Normal,154,1,True,0.0,1,Unsloping,0,3,Normal,Absence,0
+50,0,Female,4,Asymptomatic,110,254,0,False,2,LVH Indication,159,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+53,1,Male,3,Non-Anginal Pain,130,197,1,True,2,LVH Indication,152,0,False,1.2,3,Downsloping,0,3,Normal,Absence,0
+45,0,Female,4,Asymptomatic,138,236,0,False,2,LVH Indication,152,1,True,0.2,2,Flat,0,3,Normal,Absence,0
+65,1,Male,1,Typical Angina,138,282,1,True,2,LVH Indication,174,0,False,1.4,2,Flat,1,3,Normal,Presence,1
+69,1,Male,1,Typical Angina,160,234,1,True,2,LVH Indication,131,0,False,0.1,2,Flat,1,3,Normal,Absence,0
+69,1,Male,3,Non-Anginal Pain,140,254,0,False,2,LVH Indication,146,0,False,2.0,2,Flat,3,7,Reversable Defect,Presence,1
+67,1,Male,4,Asymptomatic,100,299,0,False,2,LVH Indication,125,1,True,0.9,2,Flat,2,3,Normal,Presence,1
+68,0,Female,3,Non-Anginal Pain,120,211,0,False,2,LVH Indication,115,0,False,1.5,2,Flat,0,3,Normal,Absence,0
+34,1,Male,1,Typical Angina,118,182,0,False,2,LVH Indication,174,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+62,0,Female,4,Asymptomatic,138,294,1,True,0,Normal,106,0,False,1.9,2,Flat,3,3,Normal,Presence,1
+51,1,Male,4,Asymptomatic,140,298,0,False,0,Normal,122,1,True,4.2,2,Flat,3,7,Reversable Defect,Presence,1
+46,1,Male,3,Non-Anginal Pain,150,231,0,False,0,Normal,147,0,False,3.6,2,Flat,0,3,Normal,Presence,1
+67,1,Male,4,Asymptomatic,125,254,1,True,0,Normal,163,0,False,0.2,2,Flat,2,7,Reversable Defect,Presence,1
+50,1,Male,3,Non-Anginal Pain,129,196,0,False,0,Normal,163,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+42,1,Male,3,Non-Anginal Pain,120,240,1,True,0,Normal,194,0,False,0.8,3,Downsloping,0,7,Reversable Defect,Absence,0
+56,0,Female,4,Asymptomatic,134,409,0,False,2,LVH Indication,150,1,True,1.9,2,Flat,2,7,Reversable Defect,Presence,1
+41,1,Male,4,Asymptomatic,110,172,0,False,2,LVH Indication,158,0,False,0.0,1,Unsloping,0,7,Reversable Defect,Presence,1
+42,0,Female,4,Asymptomatic,102,265,0,False,2,LVH Indication,122,0,False,0.6,2,Flat,0,3,Normal,Absence,0
+53,1,Male,3,Non-Anginal Pain,130,246,1,True,2,LVH Indication,173,0,False,0.0,1,Unsloping,3,3,Normal,Absence,0
+43,1,Male,3,Non-Anginal Pain,130,315,0,False,0,Normal,162,0,False,1.9,1,Unsloping,1,3,Normal,Absence,0
+56,1,Male,4,Asymptomatic,132,184,0,False,2,LVH Indication,105,1,True,2.1,2,Flat,1,6,Fixed Defect,Presence,1
+52,1,Male,4,Asymptomatic,108,233,1,True,0,Normal,147,0,False,0.1,1,Unsloping,3,7,Reversable Defect,Absence,0
+62,0,Female,4,Asymptomatic,140,394,0,False,2,LVH Indication,157,0,False,1.2,2,Flat,0,3,Normal,Absence,0
+70,1,Male,3,Non-Anginal Pain,160,269,0,False,0,Normal,112,1,True,2.9,2,Flat,1,7,Reversable Defect,Presence,1
+54,1,Male,4,Asymptomatic,140,239,0,False,0,Normal,160,0,False,1.2,1,Unsloping,0,3,Normal,Absence,0
+70,1,Male,4,Asymptomatic,145,174,0,False,0,Normal,125,1,True,2.6,3,Downsloping,0,7,Reversable Defect,Presence,1
+54,1,Male,2,Atypical Angina,108,309,0,False,0,Normal,156,0,False,0.0,1,Unsloping,0,7,Reversable Defect,Absence,0
+35,1,Male,4,Asymptomatic,126,282,0,False,2,LVH Indication,156,1,True,0.0,1,Unsloping,0,7,Reversable Defect,Presence,1
+48,1,Male,3,Non-Anginal Pain,124,255,1,True,0,Normal,175,0,False,0.0,1,Unsloping,2,3,Normal,Absence,0
+55,0,Female,2,Atypical Angina,135,250,0,False,2,LVH Indication,161,0,False,1.4,2,Flat,0,3,Normal,Absence,0
+58,0,Female,4,Asymptomatic,100,248,0,False,2,LVH Indication,122,0,False,1.0,2,Flat,0,3,Normal,Absence,0
+54,0,Female,3,Non-Anginal Pain,110,214,0,False,0,Normal,158,0,False,1.6,2,Flat,0,3,Normal,Absence,0
+69,0,Female,1,Typical Angina,140,239,0,False,0,Normal,151,0,False,1.8,1,Unsloping,2,3,Normal,Absence,0
+77,1,Male,4,Asymptomatic,125,304,0,False,2,LVH Indication,162,1,True,0.0,1,Unsloping,3,3,Normal,Presence,1
+68,1,Male,3,Non-Anginal Pain,118,277,0,False,0,Normal,151,0,False,1.0,1,Unsloping,1,7,Reversable Defect,Absence,0
+58,1,Male,4,Asymptomatic,125,300,0,False,2,LVH Indication,171,0,False,0.0,1,Unsloping,2,7,Reversable Defect,Presence,1
+60,1,Male,4,Asymptomatic,125,258,0,False,2,LVH Indication,141,1,True,2.8,2,Flat,1,7,Reversable Defect,Presence,1
+51,1,Male,4,Asymptomatic,140,299,0,False,0,Normal,173,1,True,1.6,1,Unsloping,0,7,Reversable Defect,Presence,1
+55,1,Male,4,Asymptomatic,160,289,0,False,2,LVH Indication,145,1,True,0.8,2,Flat,1,7,Reversable Defect,Presence,1
+52,1,Male,1,Typical Angina,152,298,1,True,0,Normal,178,0,False,1.2,2,Flat,0,7,Reversable Defect,Absence,0
+60,0,Female,3,Non-Anginal Pain,102,318,0,False,0,Normal,160,0,False,0.0,1,Unsloping,1,3,Normal,Absence,0
+58,1,Male,3,Non-Anginal Pain,105,240,0,False,2,LVH Indication,154,1,True,0.6,2,Flat,0,7,Reversable Defect,Absence,0
+64,1,Male,3,Non-Anginal Pain,125,309,0,False,0,Normal,131,1,True,1.8,2,Flat,0,7,Reversable Defect,Presence,1
+37,1,Male,3,Non-Anginal Pain,130,250,0,False,0,Normal,187,0,False,3.5,3,Downsloping,0,3,Normal,Absence,0
+59,1,Male,1,Typical Angina,170,288,0,False,2,LVH Indication,159,0,False,0.2,2,Flat,0,7,Reversable Defect,Presence,1
+51,1,Male,3,Non-Anginal Pain,125,245,1,True,2,LVH Indication,166,0,False,2.4,2,Flat,0,3,Normal,Absence,0
+43,0,Female,3,Non-Anginal Pain,122,213,0,False,0,Normal,165,0,False,0.2,2,Flat,0,3,Normal,Absence,0
+58,1,Male,4,Asymptomatic,128,216,0,False,2,LVH Indication,131,1,True,2.2,2,Flat,3,7,Reversable Defect,Presence,1
+29,1,Male,2,Atypical Angina,130,204,0,False,2,LVH Indication,202,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+41,0,Female,2,Atypical Angina,130,204,0,False,2,LVH Indication,172,0,False,1.4,1,Unsloping,0,3,Normal,Absence,0
+63,0,Female,3,Non-Anginal Pain,135,252,0,False,2,LVH Indication,172,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+51,1,Male,3,Non-Anginal Pain,94,227,0,False,0,Normal,154,1,True,0.0,1,Unsloping,1,7,Reversable Defect,Absence,0
+54,1,Male,3,Non-Anginal Pain,120,258,0,False,2,LVH Indication,147,0,False,0.4,2,Flat,0,7,Reversable Defect,Absence,0
+44,1,Male,2,Atypical Angina,120,220,0,False,0,Normal,170,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+54,1,Male,4,Asymptomatic,110,239,0,False,0,Normal,126,1,True,2.8,2,Flat,1,7,Reversable Defect,Presence,1
+65,1,Male,4,Asymptomatic,135,254,0,False,2,LVH Indication,127,0,False,2.8,2,Flat,1,7,Reversable Defect,Presence,1
+57,1,Male,3,Non-Anginal Pain,150,168,0,False,0,Normal,174,0,False,1.6,1,Unsloping,0,3,Normal,Absence,0
+63,1,Male,4,Asymptomatic,130,330,1,True,2,LVH Indication,132,1,True,1.8,1,Unsloping,3,7,Reversable Defect,Presence,1
+35,0,Female,4,Asymptomatic,138,183,0,False,0,Normal,182,0,False,1.4,1,Unsloping,0,3,Normal,Absence,0
+41,1,Male,2,Atypical Angina,135,203,0,False,0,Normal,132,0,False,0.0,2,Flat,0,6,Fixed Defect,Absence,0
+62,0,Female,3,Non-Anginal Pain,130,263,0,False,0,Normal,97,0,False,1.2,2,Flat,1,7,Reversable Defect,Presence,1
+43,0,Female,4,Asymptomatic,132,341,1,True,2,LVH Indication,136,1,True,3.0,2,Flat,0,7,Reversable Defect,Presence,1
+58,0,Female,1,Typical Angina,150,283,1,True,2,LVH Indication,162,0,False,1.0,1,Unsloping,0,3,Normal,Absence,0
+52,1,Male,1,Typical Angina,118,186,0,False,2,LVH Indication,190,0,False,0.0,2,Flat,0,6,Fixed Defect,Absence,0
+61,0,Female,4,Asymptomatic,145,307,0,False,2,LVH Indication,146,1,True,1.0,2,Flat,0,7,Reversable Defect,Presence,1
+39,1,Male,4,Asymptomatic,118,219,0,False,0,Normal,140,0,False,1.2,2,Flat,0,7,Reversable Defect,Presence,1
+45,1,Male,4,Asymptomatic,115,260,0,False,2,LVH Indication,185,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+52,1,Male,4,Asymptomatic,128,255,0,False,0,Normal,161,1,True,0.0,1,Unsloping,1,7,Reversable Defect,Presence,1
+62,1,Male,3,Non-Anginal Pain,130,231,0,False,0,Normal,146,0,False,1.8,2,Flat,3,7,Reversable Defect,Absence,0
+62,0,Female,4,Asymptomatic,160,164,0,False,2,LVH Indication,145,0,False,6.2,3,Downsloping,3,7,Reversable Defect,Presence,1
+53,0,Female,4,Asymptomatic,138,234,0,False,2,LVH Indication,160,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+43,1,Male,4,Asymptomatic,120,177,0,False,2,LVH Indication,120,1,True,2.5,2,Flat,0,7,Reversable Defect,Presence,1
+47,1,Male,3,Non-Anginal Pain,138,257,0,False,2,LVH Indication,156,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+52,1,Male,2,Atypical Angina,120,325,0,False,0,Normal,172,0,False,0.2,1,Unsloping,0,3,Normal,Absence,0
+68,1,Male,3,Non-Anginal Pain,180,274,1,True,2,LVH Indication,150,1,True,1.6,2,Flat,0,7,Reversable Defect,Presence,1
+39,1,Male,3,Non-Anginal Pain,140,321,0,False,2,LVH Indication,182,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+53,0,Female,4,Asymptomatic,130,264,0,False,2,LVH Indication,143,0,False,0.4,2,Flat,0,3,Normal,Absence,0
+62,0,Female,4,Asymptomatic,140,268,0,False,2,LVH Indication,160,0,False,3.6,3,Downsloping,2,3,Normal,Presence,1
+51,0,Female,3,Non-Anginal Pain,140,308,0,False,2,LVH Indication,142,0,False,1.5,1,Unsloping,1,3,Normal,Absence,0
+60,1,Male,4,Asymptomatic,130,253,0,False,0,Normal,144,1,True,1.4,1,Unsloping,1,7,Reversable Defect,Presence,1
+65,1,Male,4,Asymptomatic,110,248,0,False,2,LVH Indication,158,0,False,0.6,1,Unsloping,2,6,Fixed Defect,Presence,1
+65,0,Female,3,Non-Anginal Pain,155,269,0,False,0,Normal,148,0,False,0.8,1,Unsloping,0,3,Normal,Absence,0
+60,1,Male,3,Non-Anginal Pain,140,185,0,False,2,LVH Indication,155,0,False,3.0,2,Flat,0,3,Normal,Presence,1
+60,1,Male,4,Asymptomatic,145,282,0,False,2,LVH Indication,142,1,True,2.8,2,Flat,2,7,Reversable Defect,Presence,1
+54,1,Male,4,Asymptomatic,120,188,0,False,0,Normal,113,0,False,1.4,2,Flat,1,7,Reversable Defect,Presence,1
+44,1,Male,2,Atypical Angina,130,219,0,False,2,LVH Indication,188,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+44,1,Male,4,Asymptomatic,112,290,0,False,2,LVH Indication,153,0,False,0.0,1,Unsloping,1,3,Normal,Presence,1
+51,1,Male,3,Non-Anginal Pain,110,175,0,False,0,Normal,123,0,False,0.6,1,Unsloping,0,3,Normal,Absence,0
+59,1,Male,3,Non-Anginal Pain,150,212,1,True,0,Normal,157,0,False,1.6,1,Unsloping,0,3,Normal,Absence,0
+71,0,Female,2,Atypical Angina,160,302,0,False,0,Normal,162,0,False,0.4,1,Unsloping,2,3,Normal,Absence,0
+61,1,Male,3,Non-Anginal Pain,150,243,1,True,0,Normal,137,1,True,1.0,2,Flat,0,3,Normal,Absence,0
+55,1,Male,4,Asymptomatic,132,353,0,False,0,Normal,132,1,True,1.2,2,Flat,1,7,Reversable Defect,Presence,1
+64,1,Male,3,Non-Anginal Pain,140,335,0,False,0,Normal,158,0,False,0.0,1,Unsloping,0,3,Normal,Presence,1
+43,1,Male,4,Asymptomatic,150,247,0,False,0,Normal,171,0,False,1.5,1,Unsloping,0,3,Normal,Absence,0
+58,0,Female,3,Non-Anginal Pain,120,340,0,False,0,Normal,172,0,False,0.0,1,Unsloping,0,3,Normal,Absence,0
+60,1,Male,4,Asymptomatic,130,206,0,False,2,LVH Indication,132,1,True,2.4,2,Flat,2,7,Reversable Defect,Presence,1
+58,1,Male,2,Atypical Angina,120,284,0,False,2,LVH Indication,160,0,False,1.8,2,Flat,0,3,Normal,Presence,1
+49,1,Male,2,Atypical Angina,130,266,0,False,0,Normal,171,0,False,0.6,1,Unsloping,0,3,Normal,Absence,0
+48,1,Male,2,Atypical Angina,110,229,0,False,0,Normal,168,0,False,1.0,3,Downsloping,0,7,Reversable Defect,Presence,1
+52,1,Male,3,Non-Anginal Pain,172,199,1,True,0,Normal,162,0,False,0.5,1,Unsloping,0,7,Reversable Defect,Absence,0
+44,1,Male,2,Atypical Angina,120,263,0,False,0,Normal,173,0,False,0.0,1,Unsloping,0,7,Reversable Defect,Absence,0
+56,0,Female,2,Atypical Angina,140,294,0,False,2,LVH Indication,153,0,False,1.3,2,Flat,0,3,Normal,Absence,0
+57,1,Male,4,Asymptomatic,140,192,0,False,0,Normal,148,0,False,0.4,2,Flat,0,6,Fixed Defect,Absence,0
+67,1,Male,4,Asymptomatic,160,286,0,False,2,LVH Indication,108,1,True,1.5,2,Flat,3,3,Normal,Presence,1
